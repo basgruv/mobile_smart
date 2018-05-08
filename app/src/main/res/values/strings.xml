@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mobile Smart</string>
+    <string name="wifi">WiFi</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="gps">GPS</string>
+    <string name="autoRotate">Rotation</string>
+    <string name="action_settings">
+        Settings
+    </string>
+    <string name="section_format">
+        Hello
+        World
+        from
+        section:
+        %1$d
+    </string>
+</resources>
